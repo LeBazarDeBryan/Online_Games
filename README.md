@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Images/Online Games.png" />
+  <img src="Images/Icon/Online Games.png" />
 </p>
 ---------------------------------------
 
