@@ -9,3 +9,4 @@
 [<img alt="Super Mario 64" height="200px" width="400px" src="Images/Icon/Super Mario 64.png" />](https://myemulator.online/emu?game=MTYwOQ)
 [<img alt="Syobon Action" height="100px" width="400px" src="Images/Icon/Syobon Action.png" />](http://www.jezng.com/open-syobon-action.js/)
 [<img alt="PokéClicker" height="200px" width="400px" src="Images/Icon/PokéClicker.png" />](https://www.pokeclicker.com/)
+[<img alt="Cookie Clicker" height="200px" width="400px" src="Images/Icon/Cookie Clicker.png" />](https://orteil.dashnet.org/cookieclicker/beta/)
